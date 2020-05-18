@@ -2,11 +2,12 @@
 
 This repository contains tutorials that were developed for the ASTR
 350 (undergraduate) and ASTR 680 (graduate) astronomical techniques
-courses at San Diego State University (SDSU). Each tutorial consists
-of an **incomplete** Jupyter notebook and a link to a lecture video in
-which the complete material is presented. Students are instructed to
-watch the videos and to complete the tutorials on their own before
-class meetings, which are mainly used for review, discussion, and
+courses at [San Diego State University
+(SDSU)](https://www.sdsu.edu). Each tutorial consists of an
+**incomplete** Jupyter notebook and a link to a lecture video in which
+the complete material is presented. Students are instructed to watch
+the videos and to complete the tutorials on their own before class
+meetings, which are mainly used for review, discussion, and
 application of the material.
 
 The listing below provides links to the videos and demonstrates a
