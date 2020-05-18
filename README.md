@@ -1,6 +1,6 @@
 # Astronomical Techniques
 
-This repository contains tutorials that were developed for the ASTR
+This repository contains tutorials that I developed for the ASTR
 350 (undergraduate) and ASTR 680 (graduate) astronomical techniques
 courses at [San Diego State University
 (SDSU)](https://www.sdsu.edu). Each tutorial consists of an
