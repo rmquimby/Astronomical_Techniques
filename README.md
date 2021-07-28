@@ -17,7 +17,7 @@ traditional lectures as well).
 
 ## Introduction to Python coding
 - Unix Intro -- [notebook](unix.ipynb)
-/ [video](http://video.sdsu.edu/nas/capture/2018/rquimbysdsu.edu/Unix.demo/Unix.demo_-_20180828_091056_6.html) (25 min)
+/ [video](https://youtu.be/sXhvgv0AOpU) (23 min)
 
 - GitHub Overview -- [notebook](github.ipynb)
 / [video](http://video.sdsu.edu/nas/capture/2018/rquimbysdsu.edu/github/github_-_20180829_112332_6.html) (19 min)
@@ -50,11 +50,22 @@ traditional lectures as well).
 
 ## Statistical analysis (part 1)
 
+- Statistical Distributions -- [notebook](statistical.distributions.ipynb)
+/ [video](https://video.sdsu.edu/nas/capture/2020/rquimbysdsu.edu/statistical.distributions/statistical.distributions_-_20200917_112359_6.html) (30 min)
+
 - Uncertainty Propagation -- [notebook](uncertainty.propagation.ipynb)
 / [video](http://video.sdsu.edu/nas/capture/2018/rquimbysdsu.edu/uncertainty.propagation/uncertainty.propagation_-_20181012_102624_6.html) (10 min)
 
 
 ## Introduction to CCD image analysis
+
+- telescopes [notebook](telescopes.ipynb)
+/ [video](https://video.sdsu.edu/nas/capture/2020/rquimbysdsu.edu/telescopes/telescopes_-_20200819_160707_6.html) (27 min)
+
+- CCDs -- [notebook](ccd.ipynb)
+/ [video](https://video.sdsu.edu/nas/capture/2020/rquimbysdsu.edu/ccd/ccd_-_20200902_135508_6.html) (28 min)
+
+- CCD image processing -- [notebook](image.processing.ipynb) / [video](https://video.sdsu.edu/nas/capture/2020/rquimbysdsu.edu/image.processing/image.processing_-_20200915_133539_6.html) (28 min)
 
 - Making color images -- [notebook](make.color.image.ipynb)
 / [video](http://video.sdsu.edu/nas/capture/2019/rquimbysdsu.edu/make.color.image/make.color.image_-_20190826_160817_6.html) (24 min)
