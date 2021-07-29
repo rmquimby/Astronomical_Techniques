@@ -106,6 +106,17 @@ traditional lectures as well).
 
 - Lomb-Scargle Periodogram -- [notebook](lomb.scargle.ipynb) / [video](http://video.sdsu.edu/nas/capture/2020/rquimbysdsu.edu/lomb.scargle/lomb.scargle_-_20200508_150337_6.html) (28 min)
 
+## Spectroscopy
+
+- Spectroscopy (lecture) -- [notebook](spectra.lecture.ipynb)
+/ [video](https://youtu.be/leXuUp-uxGQ) (lecture from the [2020 GROWTH Summer School](https://www.growth.caltech.edu/growth-school-2020.html))
+
+- Spectroscopy (quick extraction) -- [notebook](spectra.ipynb) (notebook from the [2020 GROWTH Summer School](https://www.growth.caltech.edu/growth-school-2020.html))
+/ [notebook only]
+
+- Spectroscopy (in-depth guide) -- [notebook](spectra_guide.ipynb)
+/ [notebook only]
+
 
 # Additional tutorials
 
